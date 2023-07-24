@@ -1,0 +1,13 @@
+@media(max-width: 900px) {
+    .main-misblogs-section1-principal {
+        grid-template-columns: 1fr;
+        grid-template-rows: 3fr;
+    }
+    .main-misblogs-section1-principal img {
+        grid-row: 2;
+    }
+    .main-misblogs-section2-principal {
+        grid-column: 1;
+        grid-row: 3;
+    }
+}

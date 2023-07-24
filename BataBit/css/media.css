@@ -1,0 +1,36 @@
+
+.tarjetas {
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+.tarjeta-seleccion2 {
+    bottom: 49px;
+}
+.tarjeta-seleccion {
+    width: 150px;
+}
+.tarjeta-seleccion button {
+    margin-left: 0px;
+}
+.tarjeta-seleccion2 button {
+    margin-top: 13px;
+}
+.tarjeta-seleccion3 button {
+    margin-top: 13px;
+}
+.tarjeta-seleccion2 button span {
+    bottom: 24px;
+}
+.tarjeta-seleccion3 button span{
+    bottom: 26px;
+}
+.recomendado{
+    left: 26px;
+}
+.basico {
+    left: 26px;
+}
+.halloween {
+    left: 26px;
+}
